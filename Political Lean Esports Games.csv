@@ -1,0 +1,211 @@
+"","DMA","Dota.2","League.of.Legends","Fortnite","Overwatch","Call.of.Duty","CSGo","HotS","Starcraft","Halo.5","Trump.2016.Vote."
+"1","Providence RI-New Bedford MA",1,3,75,13,8,NA,20,50,30,40.21
+"2","Lincoln & Hastings-Kearney NE",1,3,76,11,9,NA,14,59,27,63.22
+"3","Grand Rapids-Kalamazoo-Battle Creek MI",1,4,75,12,8,NA,16,57,27,52.87
+"4","Yakima-Pasco-Richland-Kennewick WA",1,4,73,13,9,NA,23,45,32,55.26
+"5","Johnstown-Altoona PA",1,3,74,12,10,NA,14,56,30,66.3
+"6","Toledo OH",1,3,75,11,10,NA,14,52,34,51.1
+"7","Cedar Rapids-Waterloo-Iowa City & Dubuque IA",1,4,74,13,8,NA,23,49,28,45.3
+"8","Des Moines-Ames IA",1,4,74,12,9,NA,22,49,29,49.64
+"9","La Crosse-Eau Claire WI",1,3,76,11,9,NA,19,53,28,49.37
+"10","Sacramento-Stockton-Modesto CA",1,5,72,15,7,1,21,53,25,40.26
+"11","Rockford IL",1,3,74,12,10,NA,21,52,27,50.22
+"12","Lexington KY",1,3,74,12,10,NA,16,48,36,63.82
+"13","Binghamton NY",1,6,72,12,9,NA,15,62,23,53.49
+"14","South Bend-Elkhart IN",1,3,74,12,10,NA,11,70,19,58.42
+"15","Evansville IN",1,2,75,12,10,NA,13,59,28,65.84
+"16","Monterey-Salinas CA",1,5,71,16,7,NA,22,43,35,22.95
+"17","Hartford & New Haven CT",1,3,76,13,7,1,20,55,25,41.93
+"18","Fargo-Valley City ND",1,4,74,12,9,NA,15,56,29,56.78
+"19","Indianapolis IN",1,3,74,12,10,NA,21,44,35,54.95
+"20","Ft. Smith-Fayetteville-Springdale-Rogers AR",1,4,73,13,9,NA,19,45,36,63.21
+"21","Erie PA",1,3,75,12,9,NA,11,53,36,53.78
+"22","Milwaukee WI",1,3,75,12,9,NA,17,57,26,46.14
+"23","Dayton OH",1,3,73,13,10,NA,24,52,24,58.66
+"24","Peoria-Bloomington IL",1,4,74,12,9,NA,23,58,19,52.81
+"25","Salt Lake City UT",1,5,71,15,8,1,17,58,25,46.81
+"26","Topeka KS",1,5,71,12,11,NA,15,48,37,57.33
+"27","Rochester MN-Mason City IA-Austin MN",1,3,76,12,8,NA,30,46,24,50.78
+"28","Buffalo NY",1,3,75,12,9,NA,14,63,23,51.79
+"29","Harrisburg-Lancaster-Lebanon-York PA",1,3,75,12,9,NA,19,49,32,59.18
+"30","Lansing MI",1,5,71,14,9,NA,15,57,28,46.28
+"31","Philadelphia PA",1,3,75,13,8,1,19,52,29,36.61
+"32","Kansas City MO",1,3,74,13,9,1,21,47,31,49.73
+"33","Chico-Redding CA",1,5,71,15,8,NA,17,52,31,56.06
+"34","Corpus Christi TX",1,3,73,14,9,NA,17,45,38,51.18
+"35","Duluth MN-Superior WI",1,3,74,13,9,NA,13,61,26,44.08
+"36","Harrisonburg VA",1,4,74,11,10,NA,19,53,28,61.24
+"37","Huntsville-Decatur (Florence) AL",1,3,74,13,9,NA,18,49,33,67.73
+"38","Wausau-Rhinelander WI",1,4,76,11,8,NA,20,60,20,55.86
+"39","Springfield-Holyoke MA",1,5,70,16,8,NA,19,53,28,34.52
+"40","Minneapolis-St. Paul MN",1,5,74,13,7,1,18,58,24,44.33
+"41","Traverse City-Cadillac MI",1,3,74,12,10,NA,12,70,18,59.97
+"42","Chicago IL",1,4,75,12,8,1,21,51,28,31.09
+"43","Los Angeles CA",1,6,69,17,7,1,23,51,26,31.7
+"44","Minot-Bismarck-Dickinson(Williston) ND",1,3,76,11,9,NA,14,56,30,71.05
+"45","Tri-Cities TN-VA",1,3,71,14,11,NA,12,50,38,76.54
+"46","Pittsburgh PA",1,3,73,13,10,1,24,45,30,52.24
+"47","Raleigh-Durham (Fayetteville) NC",1,3,75,13,8,1,18,50,32,40.6
+"48","Waco-Temple-Bryan TX",1,4,70,15,10,NA,22,49,29,61.59
+"49","Oklahoma City OK",1,4,72,14,9,NA,18,46,36,62.83
+"50","Columbus OH",1,4,72,13,10,NA,16,55,29,47.9
+"51","Portland-Auburn ME",1,3,73,15,8,NA,17,60,23,42.97
+"52","Rochester NY",1,5,71,15,8,NA,22,55,23,44.07
+"53","Phoenix AZ",1,4,71,15,9,1,20,49,31,50.09
+"54","Detroit MI",1,4,73,13,9,1,16,58,26,41.93
+"55","Columbia-Jefferson City MO",1,5,70,14,10,NA,14,53,33,45.53
+"56","St. Louis MO",1,3,74,13,9,1,21,54,25,50.62
+"57","Palm Springs CA",1,3,75,13,8,NA,20,43,37,44.73
+"58","Albany-Schenectady-Troy NY",1,3,74,14,8,NA,17,58,25,44.11
+"59","Syracuse NY",1,4,71,14,10,NA,16,62,22,43.45
+"60","Honolulu HI",1,7,69,17,6,NA,26,49,25,30.04
+"61","Charlotte NC",1,3,76,11,9,1,17,48,34,53.45
+"62","San Antonio TX",1,4,71,15,9,NA,16,45,39,49.36
+"63","Roanoke-Lynchburg VA",1,4,73,12,10,NA,18,46,36,60.3
+"64","Idaho Falls-Pocatello ID",1,5,70,15,9,NA,19,51,30,58.14
+"65","Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL",1,3,72,14,10,NA,26,46,28,71.45
+"66","Spokane WA",1,5,69,15,10,NA,15,54,31,56.02
+"67","Springfield MO",1,5,70,13,11,NA,17,56,27,72.57
+"68","Mobile AL-Pensacola (Ft. Walton Beach) FL",1,4,72,14,9,NA,20,42,38,64.14
+"69","Las Vegas NV",1,6,69,16,8,NA,24,49,27,42.47
+"70","Columbus GA",1,4,73,12,10,NA,20,52,28,50.82
+"71","Richmond-Petersburg VA",1,3,73,14,9,NA,20,49,31,44.06
+"72","Columbia SC",1,3,74,12,10,NA,15,47,38,61.12
+"73","Greenville-New Bern-Washington NC",1,4,72,12,11,NA,15,40,45,55.91
+"74","Eureka CA",1,4,69,18,8,NA,21,62,17,34.44
+"75","Boise ID",1,5,69,16,9,NA,20,58,22,55.59
+"76","Reno NV",1,5,68,17,9,NA,16,54,30,51.55
+"77","Salisbury MD",1,3,75,12,9,NA,16,63,21,57.38
+"78","Baltimore MD",1,4,72,15,8,NA,25,51,24,39.28
+"79","Colorado Springs-Pueblo CO",1,5,67,16,11,NA,17,57,26,55.71
+"80","Rapid City SD",1,6,68,15,10,NA,25,49,26,66.94
+"81","New York NY",1,4,74,14,7,1,20,53,26,35.24
+"82","Houston TX",1,4,73,13,9,1,18,47,35,49.76
+"83","West Palm Beach-Ft. Pierce FL",1,4,75,13,7,NA,21,48,31,45.87
+"84","Orlando-Daytona Beach-Melbourne FL",1,4,71,16,8,1,21,48,31,49.22
+"85","Tucson (Sierra Vista) AZ",1,5,69,16,9,NA,27,49,24,40.89
+"86","Denver CO",1,4,72,15,8,1,16,56,28,40.73
+"87","Norfolk-Portsmouth-Newport News VA",1,4,70,15,10,NA,25,49,26,44
+"88","Tampa-St. Petersburg (Sarasota) FL",1,4,72,15,8,1,16,52,31,52.1
+"89","Dallas-Ft. Worth TX",1,4,72,14,9,1,18,48,33,53.5
+"90","Atlanta GA",1,3,75,12,9,1,15,52,32,47.58
+"91","Tallahassee FL-Thomasville GA",1,4,72,15,8,NA,21,50,29,48.52
+"92","Nashville TN",1,3,74,12,10,NA,17,49,34,60.71
+"93","Medford-Klamath Falls OR",1,6,69,15,9,NA,17,53,30,55.46
+"94","Jacksonville FL",1,4,71,15,9,NA,20,48,32,58.92
+"95","Tyler-Longview(Lufkin & Nacogdoches) TX",1,4,72,12,11,NA,15,49,36,72.8
+"96","Albuquerque-Santa Fe NM",1,3,71,15,10,NA,10,52,38,39.58
+"97","Miami-Ft. Lauderdale FL",1,4,75,13,7,1,22,45,33,33.03
+"98","Tulsa OK",1,4,72,13,10,NA,21,46,33,65.59
+"99","Augusta GA",1,4,70,14,11,NA,23,52,25,52.77
+"100","Charleston SC",1,3,73,14,9,NA,28,44,28,48.74
+"101","Missoula MT",1,5,68,16,10,NA,11,60,29,54.19
+"102","Marquette MI",2,5,69,15,9,NA,10,69,21,55.34
+"103","Champaign & Springfield-Decatur IL",2,5,69,15,9,NA,20,62,18,55.92
+"104","Santa Barbara-Santa Maria-San Luis Obispo CA",2,5,70,16,7,NA,19,53,28,36.03
+"105","San Diego CA",2,5,69,17,7,1,22,54,24,37.02
+"106","Boston MA-Manchester NH",2,4,72,15,7,1,19,56,25,35.4
+"107","Madison WI",2,5,70,15,8,NA,18,62,20,32.97
+"108","Burlington VT-Plattsburgh NY",2,4,71,15,8,NA,15,63,22,34.79
+"109","Eugene OR",2,7,63,20,8,NA,26,51,23,40.87
+"110","Butte-Bozeman MT",2,4,70,13,11,NA,18,69,13,48.18
+"111","Washington DC (Hagerstown MD)",2,4,72,14,8,1,19,55,26,29.9
+"112","Austin TX",2,5,68,18,7,1,23,53,23,40.01
+"113","Anchorage AK",2,5,64,19,10,NA,22,57,21,NA
+"114","Portland OR",2,5,67,18,8,1,19,58,23,36.85
+"115","Gainesville FL",3,6,65,19,7,NA,22,50,28,44.27
+"116","San Francisco-Oakland-San Jose CA",3,7,67,17,6,1,20,63,17,18.56
+"117","Seattle-Tacoma WA",3,6,63,20,8,1,20,52,28,32.15
+"118","Charlottesville VA",3,6,66,16,9,NA,16,66,18,39.58
+"119","Lafayette IN",5,8,61,19,7,NA,15,60,25,51.7
+"120","Fresno-Visalia CA",50,4,76,12,8,NA,18,43,39,46.28
+"121","Bakersfield CA",50,4,76,12,8,NA,20,38,42,53.54
+"122","Sioux City IA",50,3,80,9,8,NA,18,45,37,68.06
+"123","Harlingen-Weslaco-Brownsville-McAllen TX",50,3,76,11,10,NA,13,31,56,29
+"124","Davenport IA-Rock Island-Moline IL",50,4,75,11,10,NA,24,49,27,49.45
+"125","Ft. Wayne IN",50,4,75,11,10,NA,12,55,33,64.98
+"126","Charleston-Huntington WV",50,3,73,13,11,NA,18,43,39,69.61
+"127","Youngstown OH",50,3,75,11,11,NA,16,40,44,53.17
+"128","Sioux Falls(Mitchell) SD",50,3,76,12,9,NA,18,57,25,61.41
+"129","Cincinnati OH",50,3,75,12,10,NA,14,59,27,57.57
+"130","Omaha NE",50,3,77,11,9,NA,18,48,34,55.34
+"131","Flint-Saginaw-Bay City MI",50,4,73,13,10,NA,16,62,22,51
+"132","Green Bay-Appleton WI",50,4,75,12,9,NA,17,61,22,55.8
+"133","Wilkes Barre-Scranton PA",50,3,74,12,11,NA,22,51,27,60.11
+"134","Utica NY",50,3,75,12,10,NA,9,56,35,57.47
+"135","Wichita-Hutchinson KS",50,4,74,12,10,NA,13,54,33,65.22
+"136","Watertown NY",50,4,72,13,11,NA,16,60,24,55.93
+"137","Cleveland-Akron (Canton) OH",50,3,75,12,10,1,19,51,29,46.14
+"138","El Paso TX",50,3,74,13,10,NA,9,42,49,28.53
+"139","Lubbock TX",50,5,72,13,10,NA,13,46,41,69.69
+"140","Louisville KY",50,2,75,13,10,NA,17,49,34,54.68
+"141","Greensboro-High Point-Winston Salem NC",50,3,76,11,10,NA,21,46,33,54.19
+"142","Biloxi-Gulfport MS",50,5,73,13,9,NA,21,56,23,67.78
+"143","Lafayette LA",50,4,75,13,8,NA,18,50,32,66.55
+"144","Florence-Myrtle Beach SC",50,2,79,9,10,NA,15,48,37,56.54
+"145","Chattanooga TN",50,4,73,14,9,NA,22,52,26,68.63
+"146","Greenville-Spartanburg SC-Asheville NC-Anderson SC",50,3,75,13,9,NA,17,48,35,61.19
+"147","Knoxville TN",50,3,72,14,11,NA,15,53,32,70.6
+"148","Abilene-Sweetwater TX",50,4,72,12,12,NA,11,51,38,79.13
+"149","Little Rock-Pine Bluff AR",50,3,74,12,11,NA,15,56,29,58.17
+"150","Birmingham AL",50,3,76,11,10,NA,14,47,39,62.35
+"151","Wilmington NC",50,3,76,13,8,NA,14,56,30,55.91
+"152","Baton Rouge LA",50,4,73,13,10,NA,24,41,35,54.96
+"153","Ft. Myers-Naples FL",50,3,77,13,7,NA,11,58,31,59.62
+"154","Savannah GA",50,5,72,14,9,NA,20,45,35,54.52
+"155","Shreveport LA",50,3,73,12,12,NA,10,45,45,63.05
+"156","Jackson MS",50,2,79,8,11,NA,18,50,32,49.42
+"157","Memphis TN",50,3,75,11,11,NA,20,47,33,47.36
+"158","New Orleans LA",50,3,74,13,10,NA,21,50,29,53.67
+"159","Macon GA",50,3,74,12,11,NA,20,43,37,54.2
+"160","Yuma AZ-El Centro CA",50,3,76,13,8,NA,14,45,41,37.48
+"161","St. Joseph MO",50,2,76,12,10,NA,NA,100,NA,64.68
+"162","Laredo TX",50,3,76,12,9,NA,17,32,51,23.28
+"163","Mankato MN",50,5,76,11,8,NA,NA,56,44,54.38
+"164","Terre Haute IN",50,3,74,12,11,NA,14,46,40,68.85
+"165","Lima OH",50,4,75,10,11,NA,NA,65,35,72.08
+"166","Zanesville OH",50,NA,75,11,14,NA,NA,NA,NA,64.59
+"167","Bluefield-Beckley-Oak Hill WV",50,3,76,12,9,NA,27,44,29,74.16
+"168","Bowling Green KY",50,3,76,12,9,NA,13,53,34,66.41
+"169","Wheeling WV-Steubenville OH",50,2,75,11,12,NA,10,45,45,67.75
+"170","Jonesboro AR",50,3,75,12,10,NA,NA,69,31,68.79
+"171","Joplin MO-Pittsburg KS",50,3,74,11,12,NA,18,49,33,72.57
+"172","Quincy IL-Hannibal MO-Keokuk IA",50,5,72,13,10,NA,9,57,34,68.03
+"173","Parkersburg WV",50,3,75,13,9,NA,NA,60,40,69.63
+"174","Victoria TX",50,NA,77,14,9,NA,NA,100,NA,68.36
+"175","Elmira NY",50,3,75,11,11,NA,NA,68,32,62.86
+"176","Clarksburg-Weston WV",50,2,75,12,11,NA,28,32,40,69.75
+"177","Amarillo TX",50,3,76,12,9,NA,11,55,34,77.54
+"178","Wichita Falls TX & Lawton OK",50,4,71,14,11,NA,25,41,34,73.72
+"179","Columbus-Tupelo-West Point MS",50,3,77,9,11,NA,16,50,34,63.82
+"180","North Platte NE",50,NA,83,8,9,NA,NA,NA,NA,77.35
+"181","Twin Falls ID",50,3,76,13,8,NA,NA,74,26,62.85
+"182","Ottumwa IA-Kirksville MO",50,5,74,13,8,NA,NA,77,23,63.52
+"183","Bangor ME",50,4,73,14,9,NA,17,59,24,50.99
+"184","Presque Isle ME",50,NA,74,16,10,NA,NA,NA,NA,55.54
+"185","Jackson TN",50,3,77,9,11,NA,NA,50,50,68
+"186","Sherman TX-Ada OK",50,3,73,14,10,NA,27,45,28,75.05
+"187","Dothan AL",50,4,72,13,11,NA,19,39,42,73.61
+"188","Alpena MI",50,NA,78,12,10,NA,NA,NA,NA,63.61
+"189","Billings, MT",50,3,76,12,9,NA,11,56,33,63.77
+"190","Grand Junction-Montrose CO",50,4,72,14,10,NA,NA,63,37,64.91
+"191","San Angelo TX",50,3,72,14,11,NA,53,21,26,74.12
+"192","Panama City FL",50,3,76,13,8,NA,12,60,28,72.62
+"193","Great Falls MT",50,3,72,14,11,NA,NA,78,22,59.38
+"194","Montgomery (Selma) AL",50,2,77,11,10,NA,13,56,31,50.2
+"195","Monroe LA-El Dorado AR",50,3,76,10,11,NA,10,43,47,63.82
+"196","Alexandria LA",50,4,72,11,13,NA,NA,52,48,69.64
+"197","Meridian MS",50,NA,79,9,12,NA,NA,NA,NA,58.93
+"198","Odessa-Midland TX",50,2,75,12,11,NA,10,44,46,70.44
+"199","Albany GA",50,2,77,10,11,NA,NA,51,49,59.12
+"200","Beaumont-Port Arthur TX",50,3,73,13,11,NA,22,53,25,64.65
+"201","Bend OR",50,3,74,15,8,NA,18,43,39,46.36
+"202","Casper-Riverton WY",50,3,72,13,12,NA,NA,61,39,71.09
+"203","Fairbanks AK",50,6,61,22,11,NA,NA,68,32,NA
+"204","Lake Charles LA",50,2,74,13,11,NA,NA,58,42,68.47
+"205","Juneau AK",50,6,66,19,9,NA,NA,100,NA,NA
+"206","Cheyenne WY-Scottsbluff NE",50,4,71,13,12,NA,NA,72,28,64.88
+"207","Hattiesburg-Laurel MS",50,3,73,12,12,NA,13,39,48,65.41
+"208","Glendive MT",50,NA,100,NA,NA,NA,NA,NA,NA,77.21
+"209","Greenwood-Greenville MS",50,NA,80,9,11,NA,NA,NA,NA,38.45
+"210","Helena MT",50,NA,72,20,8,NA,NA,100,NA,51.48
